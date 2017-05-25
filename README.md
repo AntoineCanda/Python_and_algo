@@ -1,0 +1,1 @@
+Depot pour apprentissage du Python à travers la programmation de différents algorithmes classiques.
